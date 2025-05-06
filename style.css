@@ -44,3 +44,20 @@ h2{
 #end{
   text-align: right;
 }
+.caption {
+  color: gray;
+  font-style: italic;
+  margin: 10px;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.footer {
+  color: #666;
+  margin-top: 30px;
+  font-size: 14px;
+}
